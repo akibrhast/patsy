@@ -1,5 +1,5 @@
-module github.com/dave/patsy
+module github.com/akibrhast/patsy
 
-go 1.12
+go 1.21
 
 require github.com/pkg/errors v0.9.1

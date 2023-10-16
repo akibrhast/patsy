@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dave/patsy/vos"
+	"github.com/akibrhast/patsy/vos"
 	"github.com/pkg/errors"
 )
 
